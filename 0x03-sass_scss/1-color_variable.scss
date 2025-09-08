@@ -1,0 +1,13 @@
+// Define the variable
+$text-color: #3D3D3D;
+
+// Apply the variable separately
+body 
+{
+  color: $text-color;
+}
+
+p 
+{
+  color: $text-color;
+}
